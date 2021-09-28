@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628862971 source:c:\programowanie\c++\odliczanie\main.cpp
+	<iostream>
+	<Windows.h>
+
